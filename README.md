@@ -1,2 +1,2 @@
 # Projeto-DAW
-Repositório para o projeto de DAW
+Repository for DAW Project
